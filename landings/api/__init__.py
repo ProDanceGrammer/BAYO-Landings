@@ -1,0 +1,1 @@
+"""Landings API package"""
